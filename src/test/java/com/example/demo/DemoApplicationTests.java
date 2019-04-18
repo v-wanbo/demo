@@ -14,6 +14,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
+		int i=1/0;
 	}
 
 }
