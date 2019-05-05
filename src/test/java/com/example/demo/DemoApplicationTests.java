@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class DemoApplicationTests {
 	
 	/* 注释 ：   测试DevOps 管道   测试*/ 
-	/ wangbo
+	// 2019/05/05 16:41 wangbo 
 	@Test
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
