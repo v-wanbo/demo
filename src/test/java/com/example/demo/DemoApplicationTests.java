@@ -9,8 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 	
-	/* 注释 ：   测试DevOps 管道   测试*/
-	
+	/* 注释 ：   测试DevOps 管道   测试*/ 
+	/ wangbo
 	@Test
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
