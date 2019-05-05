@@ -9,8 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 	
-	/* 注释 ：   测试DevOps 管道   测试*/ 
-	// 2019/05/05 16:41  
+	 /*17:00 */
 	@Test
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
