@@ -13,7 +13,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
-		System.out.println("17:27 测试");
+		System.out.println("17:46 测试");
 	}
 
 }
