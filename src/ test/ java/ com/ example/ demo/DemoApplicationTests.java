@@ -9,7 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 	
-	
+	public static void main(String [] args){
+		System.out.println("2019 下午 14点40 测试 ！！！！！！！！！");	
+	}
 	 /*  17:18  */
 	@Test 
 	public void contextLoads() {
