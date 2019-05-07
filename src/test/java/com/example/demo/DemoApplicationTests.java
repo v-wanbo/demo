@@ -9,11 +9,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 	
+	System.out.println("17:46 测试");
 	 /*  17:18  */
 	@Test
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
-		System.out.println("17:46 测试");
 	}
 
 }
