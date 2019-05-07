@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 	
 	System.out.println("17:46 测试");
 	 /*  17:18  */
-	@Test
+	@Test 
 	public void contextLoads() {
 		System.out.println("Hello Word ！！！！！");
 	}
